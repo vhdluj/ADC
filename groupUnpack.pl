@@ -1,5 +1,7 @@
 #!/usr/bin/perl -w
 
+#This script unpacks all hld files from give filelist or directory
+
 #my $option = "";#$ARGV[0];
 #$option = $ARGV[0];
 
